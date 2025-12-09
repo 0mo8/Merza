@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <NuxtLayout name="Auth">
+    <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
   </div>
