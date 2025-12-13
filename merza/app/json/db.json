@@ -1,0 +1,28 @@
+{
+  "items": [
+    {
+      "name": "a title ",
+      "color": "red",
+      "category": "fruit",
+      "price": 100,
+      "stock": 100,
+      "id": "1"
+    },
+    {
+      "id": "2",
+      "name": "another title",
+      "color": "blue",
+      "category": "vegetable",
+      "price": 200,
+      "stock": 200
+    },
+    {
+      "id": "f4a9",
+      "name": "merza",
+      "color": "red",
+      "category": "test",
+      "price": "-10",
+      "stock": "10000000"
+    }
+  ]
+}

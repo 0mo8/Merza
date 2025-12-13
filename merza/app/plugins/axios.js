@@ -1,7 +1,7 @@
 import axios from 'axios'
 export default defineNuxtPlugin((nuxtApp) => {
     axios.interceptors.request.use(config => {
-        config.baseURL = "http://localhost:8000/api/v1/"
+        config.baseURL = "http://localhost:4040"
         config.headers = {
             "authorization": `Bearer Token`,
         }
